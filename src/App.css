@@ -1,0 +1,37 @@
+.App {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #f3f4f6;
+  }
+  
+  h1, h2, h3 {
+    color: #333;
+  }
+  
+  section {
+    padding: 40px 0;
+  }
+  
+  section#projects {
+    background-color: #f9fafb;
+  }
+  
+  section#skills {
+    background-color: #ffffff;
+  }
+  
+  section#contact {
+    background-color: #e5e7eb;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  li {
+    padding: 10px 0;
+  }
+  
